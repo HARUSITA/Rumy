@@ -7,6 +7,7 @@
 > *"El futuro se programa hoy."*
 
 ---
+---
 
 ### 💜 Ingeniera en Sistemas en Formación | IPN ESCOM | Mujer STEM Power 💜
 
@@ -17,8 +18,6 @@ Soy una apasionada estudiante de Ingeniería en Sistemas Computacionales en la E
 <p style="text-align: justify;">
 Como <strong>Mujer STEM</strong>, estoy comprometida a romper barreras, construir soluciones innovadoras y demostrar que la tecnología es un espacio para todos. Mi viaje se basa en el <strong>aprendizaje continuo</strong> y la búsqueda de desafíos que me permitan crecer profesionalmente.
 </p>
-
----
 
 ---
 
