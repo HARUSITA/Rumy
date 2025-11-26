@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://media.tenor.com/thrNXFAGzk4AAAAC/capoo-bugcat.gif" alt="Bugcat Capoo" width="200"/>
 </p>
-# ✨ Harusita ✨
+
+## ✨ Harusita ✨
 
 > *"El futuro se programa hoy."*
 
