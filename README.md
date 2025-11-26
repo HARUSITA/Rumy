@@ -9,12 +9,16 @@
 ---
 
 ### 💜 Ingeniera en Sistemas en Formación | IPN ESCOM | Mujer STEM Power 💜
+
 <p style="text-align: justify;">
-Soy una apasionada estudiante de Ingeniería en Sistemas Computacionales en la Escuela Superior de Cómputo (**ESCOM**) del Instituto Politécnico Nacional (**IPN**). A mis 21 años, me impulsa la curiosidad y el deseo de transformar el mundo a través del código. 
+Soy una apasionada estudiante de Ingeniería en Sistemas Computacionales en la Escuela Superior de Cómputo (<strong>ESCOM</strong>) del Instituto Politécnico Nacional (<strong>IPN</strong>). A mis 21 años, me impulsa la curiosidad y el deseo de transformar el mundo a través del código.
 </p>
+
 <p style="text-align: justify;">
-Como **Mujer STEM**, estoy comprometida a romper barreras, construir soluciones innovadoras y demostrar que la tecnología es un espacio para todos. Mi viaje se basa en el **aprendizaje continuo** y la búsqueda de desafíos que me permitan crecer profesionalmente.
+Como <strong>Mujer STEM</strong>, estoy comprometida a romper barreras, construir soluciones innovadoras y demostrar que la tecnología es un espacio para todos. Mi viaje se basa en el <strong>aprendizaje continuo</strong> y la búsqueda de desafíos que me permitan crecer profesionalmente.
 </p>
+
+---
 
 ---
 
