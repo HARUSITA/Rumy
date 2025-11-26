@@ -42,7 +42,7 @@ Me encanta sumergirme en proyectos que involucren:
 ¡Siempre estoy abierta a nuevas ideas, proyectos emocionantes y a conocer a otras mentes brillantes!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haruus.itaa/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harusitaa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harusjm@gmail.com)
 [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev-to&logoColor=white)](https://dev.to/harusitaa)
 ---
 
